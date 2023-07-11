@@ -119,3 +119,25 @@
     text-decoration: underline;
     font-weight: bold;
 }
+
+
+/* Support Section CSS */
+.support-container {
+    background-color: hsl(0, 0%, 15%, .07);
+    margin-top: 75px;
+}
+
+.support-content {
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    padding: 50px 30px 20px 30px;
+
+}
+
+.support-content img {
+    width: 88px;
+    height: 88px;
+}
