@@ -141,3 +141,17 @@
     width: 88px;
     height: 88px;
 }
+
+/* Hot Deal Section CSS */
+.hot-deal-container {
+    background-color: hsl(347, 74%, 61%, .07);
+    margin-top: 100px;
+}
+
+.hot-deal-content {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px 0px;
+    text-align: center;
+}
